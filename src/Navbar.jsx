@@ -1,7 +1,8 @@
-export default function Navbar(){
+export default function Navbar() {
     return (
-    <div>
-        <nav> <a src="#">NavBar Component</a>
-        </nav>
-    </div>
-)}
+        <div>
+            <nav> <a href="#">NavBar Component</a>
+            </nav>
+        </div>
+    )
+}
